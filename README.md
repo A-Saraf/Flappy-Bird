@@ -15,7 +15,7 @@ Earn 1 point for each pipe you pass.<br><br>
 🖥️ Lightweight and runs on any system with Python<br><br>
 
 ⚙️ Installation & Setup<br>
-Clone the repository: git clone https://github.com/your-username/Flappy-Bird.git<br>
+Clone the repository: git clone https://github.com/A-Saraf/Flappy-Bird.git<br>
 Install dependencies: pip install pygame<br
 Run the game: python main.py<br><br>
 
