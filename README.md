@@ -38,6 +38,3 @@ Pygame library<br><br>
 👨‍💻 Author<br>
 Name: Avyav Saraf<br>
 GitHub: https://github.com/A-Saraf<br>
-
-Name: Avyav
-GitHub:
